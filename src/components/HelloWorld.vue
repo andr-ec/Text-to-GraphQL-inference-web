@@ -87,7 +87,7 @@ export default {
     return {
       graphqlURL: 'http://localhost:8080/v1/graphql',
       inferenceURL: 'http://926bab7ea6c1.ngrok.io/predict',
-      prompt: 'What is the country of the artist named Erinque?',
+      prompt: 'What is the country of the artist named Enrique?',
       prediction: '',
       graphQLResonse: '',
       schemaId: 'music_1',
